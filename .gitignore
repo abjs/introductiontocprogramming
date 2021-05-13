@@ -1,0 +1,4 @@
+*.exe
+.vscode
+02_Variables/tempCodeRunnerFile.c
+Program.c
