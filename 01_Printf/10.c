@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-    printf("%d",34%10);
+    printf("%d", 34 % 10);
 }
