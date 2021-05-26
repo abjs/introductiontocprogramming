@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-   printf("Hi ABin");   
+    printf("%d", 20 / 10);
 }

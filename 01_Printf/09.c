@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-    printf("%d",10+20);
+    printf("%d", 33 / 10);
 }

@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-    printf("%f",25.457556);
+    printf("%f", 25.457556);
 }
